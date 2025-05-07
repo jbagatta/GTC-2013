@@ -1,5 +1,5 @@
-<object data="poster.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="poster.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="poster.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+# Exact Soft Body Collision Detection on the GPU
+
+This is an overview of the collision detection methodology I developed for a proprietary physics engine used by the Army Research Lab. I presented it at the 2013 NVIDIA GPU Technology Conference.
+
+![Poster](images/img.png)
